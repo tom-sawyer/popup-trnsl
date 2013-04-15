@@ -2,7 +2,7 @@ popup-trnsl
 ===========
 
 // in p.
-// add this into /<head/> tag
+// add this into <head> tag
 
 <script type="text/javascript">
     $(function() {
